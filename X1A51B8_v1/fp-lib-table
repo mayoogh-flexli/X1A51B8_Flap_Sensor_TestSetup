@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKITC-32U")(type "KiCad")(uri "D:/Dropbox/X1 M-Sort development work/S (Shared) X1 mSort/M-Sort Electronics/KiCAD Libraries/Development board/Espressif Systems/ESP32/ESP32-DEVKITC-32U")(options "")(descr ""))
+)
